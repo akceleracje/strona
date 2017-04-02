@@ -14,6 +14,7 @@ theme_settings:
   header_text: >
      <h1>Chóralne Akceleracje</h1>
      <p>Coroczne wiosenne spotkanie chórów wydziałowych Uniwersytetu Warszawskiego</p>
+     <p><small><i>Strona w budowie</i></small></p>
   header_text_feature_image:
   footer_text: >
    Powered by <a href="http://jekyllrb.com">Jekyll</a> with <a href="https://rohanchandra.github.io/project/type/">Type Theme</a>
@@ -24,9 +25,9 @@ theme_settings:
   behance:
   bitbucket:
   dribbble:
-  facebook:
+  facebook: "Ch%C3%B3ralne-Akceleracje-1423393037901702/"
   flickr:
-  github: "rohanchandra/type-theme"
+  github:
   google_plus:
   instagram:
   linkedin:  # Full URL
