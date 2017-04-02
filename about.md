@@ -1,12 +1,10 @@
 ---
 layout: page
-title: About
-permalink: /about/
+title: O Akceleracjach
+permalink: /o-akceleracjach/
 feature-img: "img/sample_feature_img_2.png"
 ---
 
-Type Theme is a free and open-source theme for [Jekyll](http://jekyllrb.com/), licensed under the MIT License.
+Chóralne Akceleracje to coroczne wiosenne spotkanie chórów wydziałowych Uniwersytetu Warszawskiego, od pierwszej edycji cieszące się niezmienną popularnością i sympatią słuchaczy.
 
-Head over to the [theme's documentation](https://rohanchandra.github.io/project/type/) for much more information about Type Theme or to install this theme on your own Jekyll site.
-
-This file is an example of a page in Jekyll, that automatically shows up in the header navigation, you can delete or modify this file freely.
+Twórcami Akceleracji są Chóry Wydziałów Biologii i Fizyki, w pierwszych edycjach brał udział Chór Wydziału Pedagogicznego, od 2014 r. współtorganizatorem tego wydarzenia jest Chór Wydziału Zarządzania, a od 2015 r. również Chór Wydział Matematyki, Informatyki i Mechaniki.
