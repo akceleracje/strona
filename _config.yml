@@ -5,7 +5,7 @@ url: "http://akceleracje.uw.edu.pl" # the base hostname & protocol for your site
 # THEME-SPECIFIC CONFIGURATION
 theme_settings:
   # Meta
-  title: Chóralne akceleracje
+  title: Chóralne Akceleracje
   avatar:
   gravatar: # Email MD5 hash
   description: "Coroczne wiosenne spotkanie chórów wydziałowych Uniwersytetu Warszawskiego" # used by search engines
