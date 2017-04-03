@@ -4,6 +4,45 @@ title: Nagrania z 8 Chóralnych Akceleracji
 ---
 Pojawiły się już wybrane nagrania z ostatnich Akceleracji!
 
+
+## Hymn Chórów Akceleracyjnych z okazji 200-lecia UW
+
+<iframe src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2F1423393037901702%2Fvideos%2F1780317875542548%2F&show_text=0&width=560" width="560" height="315" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allowFullScreen="true"></iframe>
+
+
+> Chociaż późna pora i jest czas kolacji,  
+Musi zabrzmieć przecież hymn Akceleracji.  
+Na dwustuletnich deskach, dwieście strun głosowych  
+Zabrzmi w stu osobach z chórów Wydziałowych!
+>
+Filogenetyk Euglena Zielona  
+W laboratorium za chórem stęskniona  
+Mutuje algi na sposób tak sprytny,  
+By wybijały jej algo-rytmy
+>
+Gdy to usłyszał doktorant numeryk,  
+Wielce spragniony muzycznej kariery,  
+Jak zaczął liczyć bajty z ośmiu bitów,  
+Wygenerował sześć taktów big-beatu.
+>
+Powabny fizyk, Janusz Kwark z Pasteura  
+Wielkiego żniwa wśród niewiast nie zbierał  
+Więc aby nie żyć na wieki w inercji  
+Dołączył do basów w wielkiej czystej tercji.
+>
+Magister biznesu i administracji  
+Łączy studia i nuty w sposób pełen gracji,  
+W tym cała zawarta jest jego natura  
+Więc wybór był prosty: dyrygentura!
+>
+Barok, rozrywkę, współczesną i szanty  
+Ćwiczymy dzielnie, zamiast pisać granty,  
+Śpiewając razem między wydziałami  
+O tym jak wspaniale jest być chórzystami!
+>
+> -- <cite>Słowa: połączone siły wydziałowych poetów</cite>  
+> -- <cite>Muzyka: Anna Maria Huszcza</cite>
+
 ## Występy poszczególnych chórów:
 
 ### Chór Wydziału Biologii
@@ -29,42 +68,3 @@ Pojawiły się już wybrane nagrania z ostatnich Akceleracji!
 ### Chór Wydziału Zarządzania
 
 <iframe src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2FchorWZUW%2Fvideos%2F683509001797488%2F&show_text=0&width=560" width="560" height="315" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allowFullScreen="true"></iframe>
-
-## Hymn Chórów Akceleracyjnych z okazji 200-lecia UW
-
-<iframe src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2F1423393037901702%2Fvideos%2F1780317875542548%2F&show_text=0&width=560" width="560" height="315" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allowFullScreen="true"></iframe>
-
-### Tekst
-```
-Chociaż późna pora i jest czas kolacji,
-Musi zabrzmieć przecież hymn Akceleracji.
-Na dwustuletnich deskach, dwieście strun głosowych
-Zabrzmi w stu osobach z chórów Wydziałowych:
-
---
-
-Filogenetyk Euglena Zielona
-W laboratorium za chórem stęskniona
-Mutuje algi na sposób tak sprytny,
-By wybijały jej algo-rytmy
-
-Gdy to usłyszał doktorant numeryk,
-Wielce spragniony muzycznej kariery,
-Jak zaczął liczyć bajty z ośmiu bitów,
-Wygenerował sześć taktów big-beatu.
-
-Powabny fizyk, Janusz Kwark z Pasteura
-Wielkiego żniwa wśród niewiast nie zbierał
-Więc aby nie żyć na wieki w inercji
-Dołączył do basów w wielkiej czystej tercji.
-
-Magister biznesu i administracji
-Łączy studia i nuty w sposób pełen gracji,
-W tym cała zawarta jest jego natura
-Więc wybór był prosty: dyrygentura!
-
-Barok, rozrywkę, współczesną i szanty
-Ćwiczymy dzielnie, zamiast pisać granty,
-Śpiewając razem między wydziałami
-O tym jak wspaniale jest być chórzystami!
-```
