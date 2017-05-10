@@ -2,7 +2,7 @@
 layout: post
 title: 9. Chóralne Akceleracje
 ---
-Powoli, ale nieustępliwie — jak tegoroczna wiosna — zbliżają się do nas 9.
+Tak jak tegoroczna wiosna — zbliżają się do nas 9.
 Chóralne Akceleracje. Mamy zaszczyt zaprosić Was 26 maja na koncert
 czterech chórów wydziałowych UW:
  * **Wydziału Matematyki, Informatyki i Mechaniki**, dyr. Adrianna
