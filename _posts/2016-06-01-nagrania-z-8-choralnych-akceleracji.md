@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Nagrania z 8 Chóralnych Akceleracji
+title: Nagrania z 8. Chóralnych Akceleracji
 ---
 Pojawiły się już wybrane nagrania z ostatnich Akceleracji!
 
