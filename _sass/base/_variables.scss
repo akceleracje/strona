@@ -1,7 +1,13 @@
 // Typography
 $font-family-main: 'Source Sans Pro', Helvetica, Arial, sans-serif;
 $font-family-headings: 'Source Sans Pro', Helvetica, Arial, sans-serif;
-$font-size: 1.25em;
+
+$font-sizes: (
+  null  : 15px,
+  480px : 16px,
+  640px : 18px,
+  1024px: 20px
+);
 
 // Padding
 $padding-large: 20%;
