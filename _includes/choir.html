@@ -1,0 +1,25 @@
+<div class="choir">
+    <div class="choir__infobox">
+        <div class="infobox__fb">
+            <div class="fb-page" data-href="{{ include.fb_link }}"
+                                 data-width="300"
+                                 data-height="170"
+                                 data-small-header="false"
+                                 data-adapt-container-width="true"
+                                 data-hide-cover="false"
+                                 data-show-facepile="false">
+                <blockquote cite="{{ include.fb_link }}" class="fb-xfbml-parse-ignore">
+                    <a href="{{ include.fb_link }}">Chór MIM UW</a>
+                </blockquote>
+            </div>
+        </div>
+        {% if include.web_page %}
+            <div class="infobox__page">
+                <a href="{{ include.web_page }}">Strona internetowa</a>
+            </div>
+        {% endif %}
+    </div>
+    <div class="choir__description">
+        {{ include.description | markdownify }}
+    </div>
+</div>

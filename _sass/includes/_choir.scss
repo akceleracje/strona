@@ -1,0 +1,39 @@
+$infobox_side: 1200px;
+
+.choir {
+  display: flex;
+
+  @media (max-width: $infobox_side - 1) {
+    flex-direction: column;
+  }
+
+  &__infobox {
+    @media (min-width: $infobox_side) {
+      order: 2;
+      flex: 0 0 300px;
+      margin-left: 1em;
+    }
+
+    @media (max-width: $infobox_side - 1) {
+      margin-bottom: 1em;
+    }
+  }
+
+  &__description {
+    @media (min-width: $infobox_side) {
+      order: 1;
+    }
+  }
+}
+
+.infobox {
+  &__fb {
+    margin-bottom: 1em;
+  }
+
+  &__page {
+    @media (min-width: $infobox_side) {
+      text-align: center;
+    }
+  }
+}
