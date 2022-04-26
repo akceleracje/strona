@@ -1,14 +1,35 @@
-# Type Theme
+# Strona Chóralnych Ackeleracji
 
-![Default Type Theme blog](https://cloud.githubusercontent.com/assets/816965/5142407/19742e48-71d6-11e4-8d9d-fdfe010784f0.png)
+Strona jest budowana statycznie z użyciem https://jekyllrb.com
 
-A free and open-source [Jekyll](http://jekyllrb.com) theme. Great for blogs and easy to customize.
+Wygenerowane pliki są wrzucane na serwer FTP.
 
-## Get Started
+## Środowiska
+* Produkcja: http://akceleracje.uw.edu.pl
+* Test: http://test.akceleracje.uw.edu.pl
 
-[Demo](https://rohanchandra.github.io/type-theme/)
+## Uruchamianie lokalnie
+Wszystko w katalogu z kodem.
 
-[Using Type](https://rohanchandra.github.io/project/type/)
+Za pierwszym razem:
+1. `sudo apt install ruby ruby-dev build-essential`
+2. `gem install bundler`
+3. `bundle config build.ffi -- --with-cflags=-Wno-implicit-function-declaration`
+4. `bundle install`
+5. `bundle exec jekyll serve`
 
-## License
-The MIT License (MIT)
+Kolejne razy: `bundle exec jekyll serve`
+
+Strona chodzi pod adresem http://127.0.0.1:4000/
+
+Dopóki `serve` jest uruchomione strona chodzi i jest automatycznie regenerowana przy zmianach w kodzie.
+
+## Generowanie plików do wrzucenia przez FTP
+1. `rm -rf _site`
+2. `bundle exec jekyll build`
+
+Pliki do skopiowania są w folderze `_site`
+
+## Dodawanie i edytowanie wpisów
+Posty znajdują się w katalogu `_posts` i są napisane w Markdown. Ściąga:
+https://www.markdownguide.org/cheat-sheet/
