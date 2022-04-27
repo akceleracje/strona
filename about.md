@@ -25,6 +25,7 @@ Szeliga**.
 
 {% include choir.html
     fb_link="https://www.facebook.com/ChorWBUW/"
+    fb_name="Chór Wydziału Biologii"
     description=biologia
 %}
 
@@ -41,6 +42,7 @@ na SGH, specjalistka ds. promocji w wydawnictwie Świat Książki.
 
 {% include choir.html
     fb_link="https://www.facebook.com/Chór-Wydziału-Fizyki-UW-157158194306674/"
+    fb_name="Chór Wydziału Fizyki UW"
     description=fizyka
     web_page="http://chor.fuw.edu.pl"
 %}
@@ -58,6 +60,7 @@ chóralnej na UMFC.
 
 {% include choir.html
     fb_link="https://www.facebook.com/ChorMIM/"
+    fb_name="Chór MIM UW"
     description=mim
     web_page="http://chor.mimuw.edu.pl"
 %}
@@ -74,5 +77,6 @@ Współpracuje z Chórem Akademickim UW jako instruktorka głosowa.
 
 {% include choir.html
     fb_link="https://facebook.com/chorWZUW/"
+    fb_name="Chór Wydziału Zarządzania UW"
     description=zarzadzanie
 %}
