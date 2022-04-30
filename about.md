@@ -8,7 +8,7 @@ feature-img: "img/sample_feature_img_2.png"
 Chóralne Akceleracje to coroczne wiosenne spotkanie chórów wydziałowych Uniwersytetu Warszawskiego, od pierwszej edycji cieszące się niezmienną popularnością i sympatią słuchaczy.
 
 ## Historia
-Twórcami Akceleracji są Chóry Wydziałów Biologii i Fizyki. W pierwszych edycjach brał udział również Chór Wydziału Pedagogicznego, a od 2014 r. do 2017 r. współtorganizatorem tego wydarzenia był Chór Wydziału Zarządzania. W 2015 r. do Akceleracji dołączył Chór Wydziału Matematyki, Informatyki i Mechaniki, a w 2018 Chór Wydziału Dziennikarstwa, Informacji i Bibliologii.
+Twórcami Akceleracji są Chóry Wydziałów Biologii i Fizyki. W pierwszych edycjach brał udział również Chór Wydziału Pedagogicznego, a w latach 2014 - 2017 współtorganizatorem tego wydarzenia był Chór Wydziału Zarządzania. W 2015 r. do Akceleracji dołączył Chór Wydziału Matematyki, Informatyki i Mechaniki, a w 2018 r. Chór Wydziału Dziennikarstwa, Informacji i Bibliologii.
 
 ## Aktualne chóry akceleracyjne
 
@@ -51,7 +51,7 @@ Powstały w 2014 r. Chór MIM UW funkcjonuje pod przewodnictwem jedynej w swoim 
     web_page="http://chor.mimuw.edu.pl"
 %}
 
-### Chór Dziennikarstwa, Informacji i Bibliologii
+### Chór Wydziału Dziennikarstwa, Informacji i Bibliologii
 
 {% capture dziennikarstwo %}
 Chór powstał w październiku 2017 roku. Założycielką i dyrygentką zespołu jest __Karolina Silkina__. Chór składa się głównie ze studentów WDIB, ale również innych wydziałów UW. Zespół zadebiutował na Wydziałowym spotkaniu Wigilijnym, śpiewając kolędy w wyjątkowych aranżacjach. Chór WDIB stale uczestniczy w uroczystościach wydziałowych oraz uniwersyteckich. Z okazji 100-lecia odzyskania niepodległości, razem ze wszystkimi zespołami artystycznymi Uniwersytetu Warszawskiego wystąpił w widowisku poetycko-muzycznym “Ta nasza wolność”  (reż. M. Dzięciołowski). Chór wykonuje różnorodne utwory - sakralne i świeckie, poważne i rozrywkowe, dawne i współczesne.
